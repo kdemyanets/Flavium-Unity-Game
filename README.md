@@ -4,10 +4,12 @@
 **Проект: Разработка Игры на Unity для Личного Развития (Pet-Project)**
 
 **Project objective:** Creating a game based on the Unity engine for personal professional and creative development in the field of programming, game development and an in-depth understanding of the principles of interaction with the game environment.
+
 **Цель проекта:** Создание игры на базе движка Unity с целью личного профессионального и творческого развития в области программирования, игровой разработки и углубленного понимания принципов взаимодействия с игровой средой.
 
 **Justification:**
 To achieve a deeper understanding of programming and game mechanics, I decided to create my own pet project on the Unity platform. Such a project will allow me to apply and improve my skills in C# programming and learn the basics of creating game mechanics, object interaction and game management.
+
 **Обоснование:**
 Для достижения более глубокого понимания программирования и игровой механики, я принял решение создать собственный пет-проект на платформе Unity. Такой проект позволит мне применить и усовершенствовать свои навыки в программировании на C# и изучить основы создания игровых механик, взаимодействия объектов и управления игрой.
 
@@ -16,6 +18,7 @@ To achieve a deeper understanding of programming and game mechanics, I decided t
 2. **Basic Gameplay:** Implemented basic game mechanics, including control, moving, jumping and interacting with objects.
 3. **Visual Design:** Designed minimal visual design, including interface, lighting and textures.
 4. **Soundtrack:** Added basic sound effects to enhance the atmosphere of the game.
+   
 **План Реализации:**
 1. **Концепция и Дизайн:** Определил общую концепцию игры.
 2. **Основной Геймплей:** Реализовал основные игровые механики, включая управление, перемещение, прыжки и взаимодействие с объектами.
